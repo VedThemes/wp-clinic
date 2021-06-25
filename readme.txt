@@ -1,6 +1,6 @@
-=== BlogPress ===
+=== WP Clinic ===
 
-Contributors: automattic
+Contributors: VedThemes
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 
 Requires at least: 4.5
@@ -14,7 +14,7 @@ A starter theme called BlogPress.
 
 == Description ==
 
-Description
+Theme for medical purposes
 
 == Installation ==
 
@@ -26,7 +26,7 @@ Description
 
 = Does this theme support any plugins? =
 
-BlogPress includes support for WooCommerce and for Infinite Scroll in Jetpack.
+Not at the moment but it will work with most of the WordPress.org plugins.
 
 == Changelog ==
 
