@@ -30,10 +30,6 @@ Not at the moment but it will work with most of the WordPress.org plugins.
 
 == Changelog ==
 
-= 1.0 - May 12 2015 =
+= 1.0.0 - June 28 2021 =
 * Initial release
 
-== Credits ==
-
-* Based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc., [GPLv2 or later](https://www.gnu.org/licenses/gpl-2.0.html)
-* normalize.css https://necolas.github.io/normalize.css/, (C) 2012-2018 Nicolas Gallagher and Jonathan Neal, [MIT](https://opensource.org/licenses/MIT)
